@@ -62,9 +62,14 @@
 
 #Bài tập:
 #Đi shopping, trong tủ đồ có:
-a = ["make","clothes","sephora","croptop","offshoulder"]
-a.strip()
+#a = ["make","clothes","sephora","croptop","offshoulder"]
+#Thực hiện liên tiếp (dùng shopping = True) với các hành động:
+#a) Thêm item vào tủ đồ (C)
+#b) In ra cả tủ đồ (R)
+#c) Thay đổi 1 item trong tủ đồ (U)
+#d) Xoá 1 item trong tủ đồ (D)
 
+a.strip()
 shopping = True
 while shopping:
 	command =(input("Enter an action"))
