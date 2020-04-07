@@ -58,12 +58,12 @@
 #cách 2: camelCase: ngoMinhAnh
 
 #Bài tập:
-#Look up (tra thuật ngữ con gái)
+#Look up (tra thuật ngữ nma)
 nmaDictionary = {
     "ghet": "iu",
     "iu": "ghet",
     "ban_nay_xinh_nhi":"like thi lieu hon",
-    "ukm": "cau vl",
+    "ukm": "cau vai",
     "ny":"code",
     "em bao": "anh chet roi",
     "em_ko_ghen_bao_h": "tat axit"
